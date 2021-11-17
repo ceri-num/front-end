@@ -4,7 +4,7 @@ Lecture about Client/Front Side, mostly:
 ## Javascript
 * [Introduction](JS/intro.md)
 * [Reminders](JS/rappel.md)
-* [Advanced RemindersJS/](advanced.md)
+* [Advanced Reminders](JS/advanced.md)
 * [Events](JS/event.md)
 * [Asynchronicity](JS/asynchronous.md)
 * [Client Side API](JS/api.md)
